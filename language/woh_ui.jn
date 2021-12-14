@@ -1,0 +1,397 @@
+﻿Русский|Japanese|Chinese
+NEW STORY|新しい話|开始新故事
+OPTIONS|オプション|设定
+EXTRA|エクストラ|附加内容
+ВЫХОД|終了|退出
+WORLD OF HORROR|恐怖の世界|恐怖的世界
+(CLICK ANYWHERE TO CONTINUE)|(続けるには画面をクリックしてください)|
+START DEMO|デモを始める|
+MODS|改造|
+VOLUME DOWN|音量を下げる|
+VOLUME UP|音量を上げる|
+CONTINUE|続ける|
+DISPLAY EXTRA MATH|追加計算情報を表示|
+FULL SCREEN/WINDOWED|
+FULL SCREEN STRETCH: ON/OFF|
+1BIT MODE|
+2BIT MODE|
+LAST PALETTE AVAILABLE|カラーパレット：最後|
+PREVIOUS PALETTE|
+NEXT PALETTE|
+FIRST PALETTE AVAILABLE|カラーパレット：最初|
+DISABLE EXTRA EFFECTS FOR CERTAIN SCENES (MORE FPS)|
+1X SCALE|
+2X SCALE|
+3X SCALE|
+FULLSCREEN BORDER STYLE A|
+FULLSCREEN BORDER STYLE B|
+FULLSCREEN ON/OFF|
+VOLUME|
+(LOG IN TO PROCEED)|
+WHAT'S NEW?|
+cases solved|
+DOOM|
+ITEM LIMIT|
+SPELL LIMIT|
+CHARACTER LEVEL|
+EXPERIENCE|
+ITEMS|38|
+SPELLS|
+STATUS|40|
+YOU|41|
+OLD GOD|
+TOWN STATUS|43|
+ALLIES AND PERKS|44|
+'a feeling of paranoia and discomfort is almost palpable in the air...'|45|
+[as DOOM progresses, OLD GOD's influence will slowly corrupt and change this calm, seaside town]|46|
+CREDITS AND THANKS|47|
+ACHIEVEMENTS|
+EVENTS CODEX|
+ENEMY BESTIARY|50|
+PANTHEON|
+EVENT EDITOR|52|
+ENDINGS ENCYCLOPEDIA|53|
+RESET YOUR PROGRESS|54|
+!!WARNING!!, this will reset your game's progress including achievements and CODEX/BESTIARY entries.|55|
+Explore the vast cosmos and learn about things older than time.|56|
+Check your achievement progress and plan your next playthrough.|
+Check what events you've seen and how many are you still missing.|
+Check what enemies you've defeated and how many are still lurking out there.|
+Currently, you can only edit the .ito files manually in a text editor. The in-game editor is a work in progress.|60|
+Mods have been temporarily turned off and will be coming soon!# #Thank you for your patience!|61|
+back to#menu|62|
+progress|63|
+Multiple padlocks prevent you from entering the building.##You need five KEYS.|64|
+The ominous lighthouse has been closed down for longer than you can remember...|65|
+LEAVE|66|
+ENTER LIGHTHOUSE|67|
+OPEN PADLOCK|68|
+You don't have a fitting key to open this padlock.|69|
+You used the key to open one of the padlocks.|
+You've already opened this padlock.|71|
+One or more padlocks prevents you from entering the lighthouse.|72|
+If that's your first time playing WORLD OF HORROR, it is recommended that you start with the 'SPINE-CHILLING STORY OF SCHOOL SCISSORS' option before trying more complex playthroughs.|73|
+QUICK PLAY options|
+C O M B A T|
+DIFFICULTY|76|
+TIMELINE|
+complexity|78|
+Would you like to customize your next playthrough's look?##There are many color palettes and display modes to choose from.|
+##EXTENDED|80|
+(don't ask again)|
+(ask again next time)|
+RANDOMIZE|83|
+SPINE-CHILLING STORY OF SCHOOL SCISSORS|
+EXTRACURRICULAR ACTIVITY|
+QUICK PLAY|
+(CUSTOMIZE THE PLAYTHROUGH)|
+--- DEATH MODE: random ---|88|
+--- DEATH MODE: LAST STAND ---#Starting new encounters will kill you if you drop below 1 STAMINA/REASON but you can drop to -5 in combat. This option will allow you to rethink your strategy, forget spells or use a healing item.|
+--- DEATH MODE: SUDDEN DEATH ---#Dropping below 1 STAMINA/REASON will kill you immediately.#Just like in real life.|
+SPINE-CHILLING STORY OF SCHOOL SCISSORS##A tiny section of a standard playthrough, showcasing one of the available mysteries.|
+EXTRACURRICULAR ACTIVITY##This option will prepare the standard [SKEPTIC] playthrough for you, allowing you to start the game without worrying about in-depth stuff for now.|
+A true chaos.#This option will start a new playthrough, randomly selecting CHARACTER, OLD GOD, BACKGROUND and more.|
+Choose your own character, background and other playthrough specifics.|
+FOUND YOU|
+May|
+June|
+customize the playthrough by choosing:#<-CHARACTER&BACKGROUND->|98|
+CHALLENGES|99|
+Test yourself with a selection of challenges|
+(locked)|101|
+Bad decisions, like running from enemies and reading occult books can raise location's THREAT LEVEL, making it more dangerous to explore in the future.|102|
+A quickplay option.##Start the game with a randomly selected CHARACTER and OLD GOD.|103
+EXTRA OPTIONS|104|
+CULTIST|105
+MAX STAMINA|106|
+MAX REASON|107|
+start with 4 FUNDS|108|
+start with 5 FUNDS|109|
+start with 3 FUNDS|110|
+start with 0 FUNDS|111|
+THREAT level increased|112|
+THREAT level lowered|113|
+character's STATS decreased|114|
+stronger enemies|115|
+weaker enemies|116|
+TRUE BELIEVER|117|
+INITIATE|118|
+HARBINGER OF DOOM|119|
+SKEPTIC|120|
+BASIC OPTIONS|121|
+timeline A#(WORLD OF HORROR)|122|
+timeline B#(OCCULT CAPITAL OF JAPAN)|123|
+item statistics randomization: OFF|124|
+item statistics randomization: ON|125|
+use character-exclusive perk cards only|126|
+use all unlocked perk cards|127|
+prioritize new content|128|
+keep the content randomized|129|
+[don't randomize the price and statistics of item you find and buy this playthrough]|130
+[randomize the price and statistics of item you find and buy this playthrough]131|
+[an increased chance of encountering mysteries you have not completed yet]|132|
+[an even chance of encountering all mysteries]133
+[when leveling up, the game will only draw generic and character-exclusive perk cards]|134|
+[when leveling up, the game will draw random unlocked perk cards]|135|
+[timeline choice determines the choice of available additional actions and changes in both mysteries and endings]|136|
+[Every year, our city is visited by hundreds of tourists interested in the paranormal]|137|
+SELECT YOUR CHALLENGE|138|
+set difficulty to HOD|139|
+(MUSIC)|140|
+(SFX)|141|
+<<I can't be caught with this...>> [ITEM discarded]|142|
+#[THERE'S STILL HOPE] -4% DOOM
+#[THERE'S STILL HOPE] -3% DOOM
+#[THERE IS NO HOPE] -2% DOOM
+#[YOU ARE ALREADY DOOMED]
+#[THERE'S STILL HOPE] -5% DOOM
+#[THOROUGH INVESTIGATION]: +15 EXP
+#[TIRELESS]: +1 REASON / STAMINA|149
+#[TIME PASSES]: +1 DAY
+STAMINA|151
+REASON|152
+FUNDS|
+[WARNING] Your health dropped too low!
+[WARNING] You will die at the beginning of your next encounter!
+[!!!] You've got enough experience to level up!
+Lost in time and space, you drift in nothingness until something pulls you towards the light...
+#[strength check]
+#[dexterity check]
+#[perception check]|160
+#[knowledge check]
+#[charisma check]
+yes|163
+no
+skip
+WELCOME TO 「WORLD OF HORROR」!|「恐怖の世界」へようこそ！
+(IMPORTANT MESSAGES WILL APPEAR HERE)|(重要なメッセージがここに表示されます)
+You've sustained a new injury:|新たに怪我をしてしまった:
+You've learned a new spell:|あなたは新しい呪文を習得した:
+You've started a new mystery:|あなたは新しい謎の追求を開始した:|170
+You've found a new item:|あなたは新しいアイテムを発見した:
+You've gained a new status:|あなたは新しいステータスを得た:
+A new ally has joined you:|新しい仲間が加わった:
+random|174
+standard
+halloween 2020
+last stand
+sudden death
+Start your playthrough with a randomly chosen timeline.
+TIMELINE A#(WORLD OF HORROR)#Timeline choice determines changes in mysteries and their endings.|180
+TIMELINE B#(OCCULT CAPITAL OF JAPAN)#Every year, our city is visited by hundreds of tourists interested in the paranormal
+story
+easy
+normal
+hard
+v.hard
+Start your playthrough with a randomly chosen difficulty level
+Get the full gameplay experience with a selection of tiny changes to make the dreadful town of SHIOKAWA a more hospitable place.
+Something weird is happening here but I'm sure that together, we can deal with it!
+Evil forces are gathering around SHIOKAWA. Let's hope we can make it alive...|190
+We can't save everyone but we have to try.
+This place is doomed, flee while you still can!
+WORLD OF HORROR#BASE GAME##Card pack containing everything you need to play this 1bit horror investigation game.|193
+WORLD OF HORROR#UNLOCKABLES##Contains all cards you've unlocked through achievements.
+WORLD OF HORROR#MORE STUDENTS##Contains additional#4 skins for random student allies.
+Contains additional eight events and encounters
+[unlock while playing]
+Contains additional five events and encounters.|198
+Contains additional two mysteries.
+One of the core ideas behind WORLD OFHORROR is modularity, allowing you to mixand match various card packs with different content.##Simply select card packs you want to be included and continue by pressing the arrow on the bottom.|「恐怖の世界」のアイデアの中心は拡張性にある。様々な種類のカードパックを混ぜることによって違った体験を楽しめる。##含めたいカードパックを選択し、矢印ボタンを押せば進行する。|200
+One last thing... a tall man left a suitcase for you this morning. He said you will know the password.##...I wonder, what could that mean?|最後にもう一つ…… 今朝、背の高い男があなたを訪れ、スーツケースを置いていった。#「あなたはパスワードを知っているはずだ」と言っていたが……どういうことだろうか？
+[CITY OF SHIOKAWA, JAPAN. 198X]#SOMETHING STRANGE IS HAPPENING IN OUR TOWN...|「日本、◯◯市  198X年」#この町でなにか奇妙な事が起こり始めていた……
+ROBED FIGURES CAN BE SEEN GATHERING IN THE WOODS AT NIGHT. PEOPLE ARE GOING MISSING.#DISGUSTING CREATURES ARE TERRORIZING THE SEASIDE...|夜中の森にローブを着た集団が集まっていて、街の人が行方不明になり、#さらには海沿いにはおぞましい化物がはびこっていた……
+THE RAPID TECHNOLOGICAL PROGRESS OF THE MODERN ERA BRINGS COMFORT...#BUT ALSO NEW UNKNOWN THREATS.|現代が誇る技術的進歩は人生を快適にするが…#そこには未だしれぬ危険と災いがあった。
+OLD GODS, MALICIOUS ELDRITCH BEINGS WHO RULED THE EARTH EONS AGO,#ARE AWAKENING AS REALITY STARTS TO CRUMBLE...|この次元の常識が崩れ去る最中、その裏には地上を支配していた旧い邪神た#ちの目覚めが同時に起きていた……
+ARMED WITH CLUES, SPELLS, AND YOUR DWINDLING SANITY, YOU'LL INVESTIGATE#MYSTERIES ACROSS THE CITY... AND IN REALMS BEYOND.|気が狂いながらも手がかりと術式を使い、#この世とその外にある世界で謎を解け……
+AN OLD TRAIN SLOWS DOWN AND STOPS AT ITS LAST STATION.##---##THE END OF THE WORLD IS AT HAND, AND YOU'VE FINALLY ARRIVED IN THE DOOMED TOWN...|古臭い電車が停まる終着駅だ。##ー##世界の終わりが来た そして、あなたは運命の街に到着した…
+EXTENDED|208
+UNLOCKS:|209
+[item]|210
+[location]
+[spell]
+[character]
+[ally]
+[outfit]
+[backstory]
+[old god]
+[game mode]
+[status]
+[card pack]
+[injury]
+CHAIN SMOKER
+At any point in the game have 30 cigarettes in the inventory
+JUNIOR PRIEST
+Purify two cursed places in a single playthrough
+PARANOIA AGENT
+Defeat an enemy with a BASEBALL BAT
+PEEPING TOM
+Discover a hole in the painting
+PERFECT DISGUISE
+Enter the overgrown factory wearing RITUAL ROBE and 'KARUKOSA' MASK
+FREQUENT BUYER
+Shop for items ten times in a single playthrough
+LIGHTBURN
+Equip two sources of light at the same time
+OTHERWORDLY THIRST
+Drink the blood of a forgotten beast and survive
+JUNIOR SCOUT
+Investigate 20 locations with a COMPASS equipped
+HOUSE OF PAPER
+As MIKU, take a hostage wearing TOKYO outfit
+THIS IS FOR MY FRIENDS
+As AIKO, defeat the MAD JANITOR
+WAIT FOR IT
+During combat, prepare to strike but don't attack that turn
+TEAM KILL
+Backstab a follower
+SAY HELLO
+Meet your _other_ neighbor
+JUNIOR LIBRARIAN
+Discard three books in one playthrough
+WE DON'T NEED EYES
+destroy your eye and open the third one
+TRUE IDOL
+at any point in the game, have 4 followers
+CLASSY RITUAL
+sacrifice your ALLY with a RITUAL DAGGER equipped
+PEEKING TOM
+meet a school wraith haunting the corridor
+AWOO
+call Junko
+PAID IN BLOOD
+have your ally die during combat encounter
+EXORCISM
+exorcise a ghost
+NEVER-ENDING SUMMER
+change the date and stop the curse
+RESTLESS
+complete a playthrough without resting
+SCHOLAR
+research five spells in a single game
+TRANSFER GIRL
+complete a game with the first character
+FIT GIRL
+complete a game with the second character
+THUG SURVIVOR
+complete a game with the third character,
+IDOL SURVIVOR
+complete a game with the fourth character,
+REPORTER SURVIVOR
+complete a game with the fifth character,
+LUNGFUL OF AIR,
+complete the [COLD TURKEY] challenge,
+GROUNDED FOREVER
+complete the [BUT DAD!!] challenge,
+STUDENT SURVIVOR
+complete a game with the sixth character
+CHAOS SURVIVOR
+complete a game with the seventh character
+BAD LUCK
+roll a 1 during a stat check
+FROM THE BRINK
+defeat an OLD GOD with over 90% DOOM
+NEED NO EDUCATION
+burn down the school building
+BOOP
+surprise the dog
+MY DEAR GHOST
+complete the [GHASTLY PRESENCE] challenge
+MOST POPULAR IDOL
+complete the [GHOST TOWN] challenge
+WORLD SAVED I
+win your first playthrough
+WORLD SAVED II
+win your second playthrough
+WORLD SAVED III
+win your third playthrough
+WORLD SAVED IV
+win your fourth playthrough
+WORLD DOOMED I
+lose your playthrough due to REASON loss
+WORLD DOOMED II
+lose your playthrough due to STAMINA loss
+PAINTED HOSPITAL
+win your fifth playthrough
+ONYX MEDALLION
+gather five curses
+WORLD DOOMED III
+lose your playthrough due to DOOM
+ELDRITCH BACKSTORY I
+win a playthrough using WORLD OF HORROR backstory
+ELDRITCH BACKSTORY II
+win a playthrough using MEDICAL HISTORY backstory
+ELDRITCH BACKSTORY III
+win a playthrough using HUNTED BY THE CULT backstory
+ELDRITCH BACKSTORY IV
+win a playthrough using SEVENTH CURSE backstory
+ELDRITCH BACKSTORY V
+win a playthrough using ILL-FATED backstory
+CLUB MEMBER
+join the club
+ELDRITCH BACKSTORY VI
+win a playthrough using KNIGHT ERRANT backstory
+SOFT SIDE
+buy and return an expensive drug
+BLOOD DEAL
+feed an OUTER ENTITY
+SHIOKAWA HISTORY I
+unlock 15 achievements
+SHIOKAWA HISTORY II
+unlock 20 achievements
+SHIOKAWA HISTORY III
+unlock 25 achievements
+SHIOKAWA HISTORY IV
+unlock 30 achievements
+SHIOKAWA HISTORY V
+unlock 40 achievements
+SHIOKAWA HISTORY VI
+unlock 50 achievements
+TRUE DESPAIR
+win a playthrough on hard difficulty
+FINAL STAND I
+reach turn 30 in ENDLESS mode
+FINAL STAND II
+reach turn 40 in ENDLESS mode
+FINAL STAND III
+reach turn 50 in ENDLESS mode
+MIRA
+solve the BLUE GEM riddle
+SOMETHING EVIL
+meet and defeat SOMETHING EVIL
+TRUE ANARCHY
+complete the [PAROLE VIOLATION] challenge
+HAIL TO THE KING
+as MORIKO, defeat an enemy with a working CHAINSAW
+GOOD OLD TIMES
+equip CARPENTER HAMMER with both EXPEL EVIL and REGENERATION learned
+PRIMUM NON NOCERE
+defeat DREAM DEVOURER without killing a single patient
+SWEATER GIRL
+find the missing girl
+ELDRITCH BACKSTORY VII
+win a playthrough using SCARS backstory
+ELDRITCH BACKSTORY VIII
+win a playthrough using CURIOUS BIRTHMARK backstory
+ELDRITCH BACKSTORY IX
+win a playthrough using ELDRITCH PARASITE backstory
+ELDRITCH BACKSTORY X
+win a playthrough using EXQUISITE TASTE backstory
+ELDRITCH BACKSTORY XXX
+win a playthrough using FATALIST backstory|381
+EVENT EDITOR|382
+EXTRAS
+TRACK THIS ACHIEVEMENT
+ACHIEVEMENTS|385
+Achievements unlocked:
+progress
+EVENTS|388
+EVENTS CODEX
+ENEMIES|390
+ENEMY BESTIARY
+THE OUTER BEING
+GO BACK
+check all
+uncheck all
+FULL
+coming soon
